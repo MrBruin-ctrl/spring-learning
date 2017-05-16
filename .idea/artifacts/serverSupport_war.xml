@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="serverSupport:war">
+    <output-path>$PROJECT_DIR$/learning/springCloudLearning/serverSupport/target</output-path>
+    <root id="archive" name="server-support.war">
+      <element id="artifact" artifact-name="serverSupport:war exploded" />
+    </root>
+  </artifact>
+</component>

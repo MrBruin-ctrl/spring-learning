@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="serviceEureka:war">
+    <output-path>$PROJECT_DIR$/learning/springCloudLearning/serviceEureka/target</output-path>
+    <root id="archive" name="service-eureka.war">
+      <element id="artifact" artifact-name="serviceEureka:war exploded" />
+    </root>
+  </artifact>
+</component>

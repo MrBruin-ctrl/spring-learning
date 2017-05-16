@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Spring-Ribbon:war">
+    <output-path>$PROJECT_DIR$/learning/springCloudLearning/Spring-Ribbon/target</output-path>
+    <root id="archive" name="spring-cloud-ribbon.war">
+      <element id="artifact" artifact-name="Spring-Ribbon:war exploded" />
+    </root>
+  </artifact>
+</component>

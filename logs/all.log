@@ -1,0 +1,83 @@
+2017-05-10 17:00:08,759 ERROR App:19 - 测试
+2017-05-10 17:00:09,012 ERROR App:19 - 测试
+2017-05-10 17:00:09,889  INFO Version:30 - HV000001: Hibernate Validator 5.2.4.Final
+2017-05-10 17:00:14,234  INFO LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2017-05-10 17:00:14,301  INFO Version:37 - HHH000412: Hibernate Core {5.0.11.Final}
+2017-05-10 17:00:14,304  INFO Environment:213 - HHH000206: hibernate.properties not found
+2017-05-10 17:00:14,306  INFO Environment:317 - HHH000021: Bytecode provider name : javassist
+2017-05-10 17:00:14,350  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2017-05-10 17:00:14,447  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-05-10 17:00:14,823  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+2017-05-10 17:00:15,482  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-05-10 17:02:06,886 ERROR App:19 - 测试
+2017-05-10 17:02:08,384  INFO LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2017-05-10 17:02:08,402  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-05-10 17:02:08,438  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+2017-05-10 17:02:08,673  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-05-10 17:02:59,974 ERROR App:19 - 测试
+2017-05-10 17:03:01,322  INFO LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2017-05-10 17:03:01,330  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-05-10 17:03:01,345  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+2017-05-10 17:03:01,491  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-05-10 17:04:54,496 ERROR App:16 - 测试
+2017-05-10 17:04:56,042  INFO LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2017-05-10 17:04:56,051  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-05-10 17:04:56,066  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+2017-05-10 17:04:56,216  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-05-10 17:06:27,169 ERROR App:16 - 测试
+2017-05-10 17:06:28,845  INFO LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2017-05-10 17:06:28,855  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-05-10 17:06:28,879  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+2017-05-10 17:06:29,028  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-05-10 17:06:31,709 ERROR App:16 - 测试
+2017-05-10 17:06:33,084  INFO LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2017-05-10 17:06:33,092  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-05-10 17:06:33,112  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+2017-05-10 17:06:33,291  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-05-10 17:10:20,324 ERROR App:16 - 测试
+2017-05-10 17:10:22,843  INFO LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2017-05-10 17:10:22,853  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-05-10 17:10:22,880  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+2017-05-10 17:10:23,127  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-05-10 17:10:36,187 ERROR App:16 - 测试
+2017-05-10 17:10:39,508  INFO LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2017-05-10 17:10:39,519  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-05-10 17:10:39,564  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+2017-05-10 17:10:39,809  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-05-10 17:10:41,625 ERROR App:16 - 测试
+2017-05-10 17:10:43,667  INFO LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2017-05-10 17:10:43,677  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-05-10 17:10:43,704  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+2017-05-10 17:10:43,940  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-05-10 17:11:31,546 ERROR App:16 - 测试
+2017-05-10 17:11:34,002  INFO LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2017-05-10 17:11:34,012  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-05-10 17:11:34,035  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+2017-05-10 17:11:34,383  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-05-10 17:11:38,245 ERROR App:16 - 测试
+2017-05-10 17:11:40,863  INFO LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2017-05-10 17:11:40,874  INFO Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-05-10 17:11:40,914  INFO SchemaUpdate:105 - HHH000228: Running hbm2ddl schema update
+2017-05-10 17:11:41,334  INFO QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory

@@ -1,0 +1,12 @@
+2017-05-10 16:30:33.109  INFO 11496 --- [restartedMain] cn.wang.springboot.App                   : Starting App on PC-201611011343 with PID 11496 (D:\ideawork\multi-test\learning\springweb\target\classes started by Administrator in D:\ideawork\multi-test)
+2017-05-10 16:30:33.115 DEBUG 11496 --- [restartedMain] cn.wang.springboot.App                   : Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-05-10 16:30:33.116  INFO 11496 --- [restartedMain] cn.wang.springboot.App                   : No active profile set, falling back to default profiles: default
+2017-05-10 16:30:38.138  INFO 11496 --- [restartedMain] cn.wang.springboot.App                   : Started App in 5.483 seconds (JVM running for 6.143)
+2017-05-10 16:31:02.229  INFO 13936 --- [restartedMain] cn.wang.springboot.App                   : Starting App on PC-201611011343 with PID 13936 (D:\ideawork\multi-test\learning\springweb\target\classes started by Administrator in D:\ideawork\multi-test)
+2017-05-10 16:31:02.233 DEBUG 13936 --- [restartedMain] cn.wang.springboot.App                   : Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-05-10 16:31:02.233  INFO 13936 --- [restartedMain] cn.wang.springboot.App                   : No active profile set, falling back to default profiles: default
+2017-05-10 16:31:07.431  INFO 13936 --- [restartedMain] cn.wang.springboot.App                   : Started App in 5.628 seconds (JVM running for 6.175)
+2017-05-10 16:31:35.020  INFO 13936 --- [restartedMain] cn.wang.springboot.App                   : Starting App on PC-201611011343 with PID 13936 (D:\ideawork\multi-test\learning\springweb\target\classes started by Administrator in D:\ideawork\multi-test)
+2017-05-10 16:31:35.020 DEBUG 13936 --- [restartedMain] cn.wang.springboot.App                   : Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-05-10 16:31:35.020  INFO 13936 --- [restartedMain] cn.wang.springboot.App                   : No active profile set, falling back to default profiles: default
+2017-05-10 16:31:36.691  INFO 13936 --- [restartedMain] cn.wang.springboot.App                   : Started App in 1.718 seconds (JVM running for 35.436)
