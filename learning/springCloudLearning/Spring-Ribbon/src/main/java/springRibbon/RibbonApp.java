@@ -22,5 +22,6 @@ public class RibbonApp {
     }
     public static void main(String[] args) {
         SpringApplication.run(RibbonApp.class, args);
+        System.out.println("你好");
     }
 }
