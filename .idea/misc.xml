@@ -8,6 +8,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/learning/pom.xml" />
+        <option value="$PROJECT_DIR$/learning/mySpringBootDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/learning/userAuthority/pom.xml" />
+        <option value="$PROJECT_DIR$/learning/mySpringBootDemo/webSocketDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/learning/strapNgTest/pom.xml" />
       </list>
     </option>
   </component>

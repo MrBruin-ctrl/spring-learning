@@ -3,11 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/learning/springCloudLearning/Spring-Ribbon/Spring-Ribbon.iml" filepath="$PROJECT_DIR$/learning/springCloudLearning/Spring-Ribbon/Spring-Ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning/springCloudLearning/configClint/configClint.iml" filepath="$PROJECT_DIR$/learning/springCloudLearning/configClint/configClint.iml" />
       <module fileurl="file://$PROJECT_DIR$/learning/learning.iml" filepath="$PROJECT_DIR$/learning/learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning/mySpringBootDemo/mySpringBootDemo.iml" filepath="$PROJECT_DIR$/learning/mySpringBootDemo/mySpringBootDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/learning/springCloudLearning/serverSupport/serverSupport.iml" filepath="$PROJECT_DIR$/learning/springCloudLearning/serverSupport/serverSupport.iml" />
       <module fileurl="file://$PROJECT_DIR$/learning/springCloudLearning/serviceEureka/serviceEureka.iml" filepath="$PROJECT_DIR$/learning/springCloudLearning/serviceEureka/serviceEureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/learning/springCloudLearning/springCloudLearning.iml" filepath="$PROJECT_DIR$/learning/springCloudLearning/springCloudLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning/springCloudLearning/springConfigServer/springConfigServer.iml" filepath="$PROJECT_DIR$/learning/springCloudLearning/springConfigServer/springConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning/springCloudLearning/springZuul/springZuul.iml" filepath="$PROJECT_DIR$/learning/springCloudLearning/springZuul/springZuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/learning/springweb/springweb.iml" filepath="$PROJECT_DIR$/learning/springweb/springweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning/strapNgTest/strapNgTest.iml" filepath="$PROJECT_DIR$/learning/strapNgTest/strapNgTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning/userAuthority/userAuthority.iml" filepath="$PROJECT_DIR$/learning/userAuthority/userAuthority.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning/mySpringBootDemo/webSocketDemo/webSocketDemo.iml" filepath="$PROJECT_DIR$/learning/mySpringBootDemo/webSocketDemo/webSocketDemo.iml" />
     </modules>
   </component>
 </project>

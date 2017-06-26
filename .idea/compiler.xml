@@ -6,19 +6,33 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="configClint" />
+        <module name="mySpringBootDemo" />
         <module name="serverSupport" />
         <module name="serviceEureka" />
         <module name="Spring-Ribbon" />
+        <module name="springConfigServer" />
         <module name="springweb" />
+        <module name="springZuul" />
+        <module name="strapNgTest" />
+        <module name="userAuthority" />
+        <module name="webSocketDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="configClint" target="1.5" />
       <module name="learning" target="1.5" />
+      <module name="mySpringBootDemo" target="1.8" />
       <module name="serverSupport" target="1.5" />
       <module name="serviceEureka" target="1.5" />
       <module name="Spring-Ribbon" target="1.5" />
       <module name="springCloudLearning" target="1.5" />
+      <module name="springConfigServer" target="1.5" />
       <module name="springweb" target="1.8" />
+      <module name="springZuul" target="1.5" />
+      <module name="strapNgTest" target="1.8" />
+      <module name="userAuthority" target="1.8" />
+      <module name="webSocketDemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -14,6 +14,9 @@
         <module>serviceEureka</module>
         <module>serverSupport</module>
         <module>Spring-Ribbon</module>
+        <module>springConfigServer</module>
+        <module>configClint</module>
+        <module>springZuul</module>
     </modules>
 
 </project>
